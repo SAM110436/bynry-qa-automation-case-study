@@ -51,7 +51,7 @@ bynry-qa-automation-case-study/
 │       └── test_mobile_project.py
 │
 ├── test_data/
-├── ├── docs/
+├── docs/
 │   ├── part1_flaky_test_analysis.md
 │   ├── case_study_solution.md
 │   └── test_execution_report.md
