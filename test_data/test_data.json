@@ -1,0 +1,15 @@
+{
+  "company1": {
+    "email": "admin@company1.com",
+    "password": "REPLACE_WITH_TEST_SECRET"
+  },
+  "company2": {
+    "email": "user@company2.com",
+    "password": "REPLACE_WITH_TEST_SECRET"
+  },
+  "project": {
+    "name_prefix": "Automation Project",
+    "description": "Project created during integration testing",
+    "team_members": []
+  }
+}
